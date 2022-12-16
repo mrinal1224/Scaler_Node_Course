@@ -1,14 +1,16 @@
 {
-  "name": "2_npm",
+  "dependencies": {
+    "mongoose": "^6.8.0"
+  },
+  "name": "4_mongodb",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "figlet": "^1.5.2" 
-  }
+  "description": ""
 }
